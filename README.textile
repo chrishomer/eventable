@@ -1,0 +1,12 @@
+h1. Eventable
+
+Eventable is an event publishing system for ruby and rails.  It is meant to be "service agnostic", however, it will initially be designed to work with Performable.
+
+h2. Basic Usage
+
+*TODO*
+
+h2. Licensing
+
+MIT License
+- see MIT-LICENSE file.
